@@ -1,1 +1,1 @@
-console.log("Created on github")
+console.log("Created on github");
